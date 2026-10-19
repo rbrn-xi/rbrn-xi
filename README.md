@@ -21,7 +21,11 @@ Most of my production code lives in private repositories — client systems, int
 
 ## Background
 
-Communication Studies professor and former award-winning speech & debate coach before I went full-time into AI. MA in Communication Studies (CSU Long Beach), MBA (University of the People). That teaching background is the point: the tech only matters if people can actually use it.
+I've been building for the web since the Flash era — animation, graphic design, hand-rolled sites — and taking things apart even longer: game modding, homebrew, and the kind of rabbit holes that teach you how systems actually work. That maker streak never left. It just grew up into full-stack development and AI systems.
+
+On paper: consulting experience inside some of the biggest tech organizations in the world — Meta, Intuit, Twitter, and PIMCO (experience, not endorsements) — alongside years in learning & development, organizational development, and program management. In the classroom: Communication Studies professor and former award-winning speech & debate coach. MA in Communication Studies (CSU Long Beach), MBA (University of the People).
+
+The through-line is translation: deep tech, made usable by actual humans. Bilingual in English and Spanish. Based in Los Angeles & Orange County.
 
 ## Elsewhere
 
