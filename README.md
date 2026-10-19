@@ -25,7 +25,7 @@ Communication Studies professor and former award-winning speech & debate coach b
 
 ## Elsewhere
 
-- Web: [fixinghr.com](https://fixinghr.com) · [sincerx.fixyourshh.com](https://sincerx.fixyourshh.com)
+- Web: [fixinghr.com](https://fixinghr.com) · [fixyourshh.com](https://fixyourshh.com) · [sincerx.fixyourshh.com](https://sincerx.fixyourshh.com)
 - LinkedIn: [linkedin.com/in/albert-alatorre](https://www.linkedin.com/in/albert-alatorre)
 - Email: alberto@fixyourshh.com
 - Creative work as **sincerx** — painting, photography, poetry, music: [@sincerx.amor](https://www.instagram.com/sincerx.amor)
